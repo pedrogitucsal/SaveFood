@@ -26,8 +26,11 @@ Desenvolvedores: Pedro Henrique Souza de Jesus Peixoto, Uelton Breno Paranhos de
 🚧 Status
 
  Design no Figma
+ 
  Frontend 
+ 
  Documentação no Overleaf  
+ 
  Metrificação
 
 
